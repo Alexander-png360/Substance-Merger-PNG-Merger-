@@ -1,3 +1,3 @@
-Merges PNGs into single images based on prefix such as "normal" or "diffusion" desgined to work with processed textures from substance painter to minimize size (assuming they don't overlap)
+Merges PNGs into single images based on prefix such as "normal" or "diffuse". Designed to work with processed textures from Substance 3D Painter to minimize file size (assuming they do not overlap).
 
-uses stb image and wx widgets, may need dependencies installed to operate correctly such as opencv
+Uses stb_image and wxWidgets. May require additional dependencies, such as OpenCV, to function correctly.
